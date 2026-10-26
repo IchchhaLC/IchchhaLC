@@ -72,18 +72,19 @@ text, tspan {white-space: pre;}
 </text>
 
 <text fill="#24292f" font-size="16px">
-<tspan x="450" y="261">icza_ikne <tspan class="dots">------------------------------------------------------</tspan></tspan>
-<tspan x="450" y="281"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ....................................................... </tspan><tspan class="value">Me</tspan></tspan>
-<tspan x="450" y="301"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................. </tspan><tspan class="value">Myself</tspan></tspan>
-<tspan x="450" y="321"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">Powered by coffee</tspan></tspan>
-<tspan x="450" y="341"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">Developer 1.0.0-LTS</tspan></tspan>
-<tspan x="450" y="361"><tspan class="dots">.</tspan></tspan>
-<tspan x="450" y="381"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>:<tspan class="dots"> ................................ </tspan><tspan class="value">TypeScript, Python</tspan></tspan>
-<tspan x="450" y="401"><tspan class="dots">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="dots"> ........................ </tspan><tspan class="value">Coding anything &amp; everything</tspan></tspan>
-<tspan x="450" y="421"><tspan class="dots">.</tspan></tspan>
-<tspan x="450" y="441"><tspan class="dots">- </tspan>Contact <tspan class="dots">------------------------------------------------------</tspan></tspan>
-<tspan x="450" y="461"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dots"> ............................................. </tspan><tspan class="value">yourname</tspan></tspan>
-<tspan x="450" y="481"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>:<tspan class="dots"> ....................................... </tspan><tspan class="value">you@example.com</tspan></tspan>
+<tspan x="450" y="251">icza_ikne <tspan class="dots">------------------------------------------------------</tspan></tspan>
+<tspan x="450" y="271"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> .................................................. </tspan><tspan class="value">Ichchha</tspan></tspan>
+<tspan x="450" y="291"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ............................................... </tspan><tspan class="value">Codewing</tspan></tspan>
+<tspan x="450" y="311"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">Powered by coffee</tspan></tspan>
+<tspan x="450" y="331"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ........................ </tspan><tspan class="value">WordPress Developer 1.0.0-LTS</tspan></tspan>
+<tspan x="450" y="351"><tspan class="dots">.</tspan></tspan>
+<tspan x="450" y="371"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">PHP, JavaScript, React, SCSS</tspan></tspan>
+<tspan x="450" y="391"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">WordPress, WP Travel Engine, Gutenberg, REST API</tspan></tspan>
+<tspan x="450" y="411"><tspan class="dots">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">Breaking plugins, then fixing them</tspan></tspan>
+<tspan x="450" y="431"><tspan class="dots">.</tspan></tspan>
+<tspan x="450" y="451"><tspan class="dots">- </tspan>Contact <tspan class="dots">------------------------------------------------------</tspan></tspan>
+<tspan x="450" y="471"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dots"> ............................................ </tspan><tspan class="value">IchchhaLC</tspan></tspan>
+<tspan x="450" y="491"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>:<tspan class="dots"> ................................... </tspan><tspan class="value">ichchha@codewing.co</tspan></tspan>
 </text>
 <text class="thought" x="119" y="198" font-size="12px" fill="#953800" style="--drift: -12px; animation-duration: 6.45s; animation-delay: -4.20s">∑</text>
 <text class="thought" x="130" y="188" font-size="16px" fill="#0a3069" style="--drift: -5px; animation-duration: 6.17s; animation-delay: -3.13s">π</text>
