@@ -3,7 +3,7 @@
 # Build locally with: python -m card.build
 
 # First line of the card, styled like a terminal prompt.
-title: shrestha@samir
+title: icza_ikne
 
 # Anything you like, shown just above the details: a greeting, a tagline, a quote, ASCII art.
 # Each entry is a string, or a map with text (or art) plus optional
@@ -27,21 +27,14 @@ info:
   - OS: Me
   - Host: Myself
   - Uptime: Powered by coffee
-  - Kernel: Software Dev 1.0.0-LTS
+  - Kernel: Developer 1.0.0-LTS
   - ""
-  - Languages.Programming: PHP, JS, TS, Python
-  - Languages.Web: React, Next.js
-  - Languages.Real: English
-  - ""
-  - Hobbies.Software: Coding anything & everything
-  - Hobbies.Mind: Problem solving
+  - Languages: TypeScript, Python
+  - Hobbies: Coding anything & everything
   - ""
   - section: Contact
-  - Email.Personal: contact.samirshrestha@gmail.com
-  - GitHub: CodeSawMir
-  - ""
-  - section: Status
-  - Currently: learning++  // no overflow yet
+  - GitHub: yourname
+  - Email: you@example.com
 
 portrait:
   # Drop a photo of yourself here (jpg or png). The background is removed automatically,
