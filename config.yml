@@ -24,17 +24,18 @@ title: icza_ikne
 #   - section: Name       a "- Name ---------" divider
 #   - ""                  an empty spacer row
 info:
-  - OS: Me
-  - Host: Myself
+  - OS: Ichchha
+  - Host: Codewing
   - Uptime: Powered by coffee
-  - Kernel: Developer 1.0.0-LTS
+  - Kernel: WordPress Developer 1.0.0-LTS
   - ""
-  - Languages: TypeScript, Python
-  - Hobbies: Coding anything & everything
+  - Languages: PHP, JavaScript, React, SCSS
+  - Stack: WordPress, WP Travel Engine, Gutenberg, REST API
+  - Hobbies: Breaking plugins, then fixing them
   - ""
   - section: Contact
-  - GitHub: yourname
-  - Email: you@example.com
+  - GitHub: IchchhaLC
+  - Email: ichchha@codewing.co
 
 portrait:
   # Drop a photo of yourself here (jpg or png). The background is removed automatically,
